@@ -24,6 +24,6 @@ Como Executar:
 - Conclusão
 Este projeto combina consulta e análise de dados, permitindo que os usuários acompanhem a Fórmula E e entendam melhor o desempenho dos pilotos. É uma ferramenta prática para qualquer fã do automobilismo.
 
-
+Alunos Responsáveis:
 Gustavo Yuji Osugi (RM: 555034) 📚 Renato Dutra Ferreira de Aguiar (RM: 554716) 🎓 Jose Antonio Kretzer Rodriguez (RM: 555523) 🏫 Victor Alves de Souza (RM: 555761) 📝
  
